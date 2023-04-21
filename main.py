@@ -1,2 +1,2 @@
-a=[1,2,3,4,5,6]
-print(a[1:5])
+for i in range(10):
+  print(i)
